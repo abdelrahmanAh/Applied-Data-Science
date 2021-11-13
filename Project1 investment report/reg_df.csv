@@ -1,0 +1,34 @@
+reg,lat,long,prov
+"Ain Shams ,egypt",30.1304761,31.3167491,cairo
+"Azbakeya ,egypt",30.0538891,31.2454725,cairo
+"Bab al-Louq ,egypt",30.0442714,31.23982923712642,cairo
+"Boulaq ,egypt",30.0630926,31.228925529262085,cairo
+"Coptic Cairo ,egypt",30.006477699999998,31.231841015688115,cairo
+"Downtown Cairo ,egypt",30.0887612,31.2898195,cairo
+"El Manial ,egypt",29.9529555,31.2395844,cairo
+"El Marg ,egypt",30.152778,31.338333,cairo
+"El Matareya, Cairo ,egypt",30.1155032,31.310218206424615,cairo
+"El Rehab ,egypt",30.063584,31.4889939,cairo
+"El Sahel ,egypt",30.0917969,31.23752838753986,cairo
+"Ezbet El Nakhl ,egypt",30.13662715,31.31874325980126,cairo
+"Faggala ,egypt",29.983333,32.55,cairo
+"Fifth Settlement ,egypt",30.003804549999998,31.424935726802204,cairo
+"Fustat ,egypt",30.00378585,31.231321537873647,cairo
+"Garden City, Cairo ,egypt",30.03472205,31.231187914963712,cairo
+"Gezira  ,egypt",30.0245634,30.9877483,cairo
+"Heliopolis, Cairo ,egypt",30.1006426,31.3325113,cairo
+"Islamic Cairo ,egypt",30.04207015,31.260663885144897,cairo
+"Maadi ,egypt",29.9603313,31.26305504108212,cairo
+"Old Cairo ,egypt",30.0174001,31.2331964,cairo
+"Roda Island ,egypt",30.0214222,31.22575552382122,cairo
+"Shubra  ,egypt",30.1285988,31.242218,cairo
+"Zamalek ,egypt",30.0649721,31.2195945,cairo
+"Zeitoun, Cairo ,egypt",30.1148803,31.313645,cairo
+"Abu Radis  ,egypt",28.90059595,33.20053351373349,south_sina
+"El Tor ,egypt",28.241667,33.623611,south_sina
+"Dahab ,egypt",28.4963633,34.5145652,south_sina
+"Nuweiba ,egypt",29.035,34.661667,south_sina
+"Ras Sidr ,egypt",29.593487,32.718536,south_sina
+"Saint Catherine ,egypt",28.5675077,33.9535607,south_sina
+"Sharm El Sheikh 1 ,egypt",27.8644422,34.295447,south_sina
+"Taba ,egypt",29.492821,34.892366,south_sina
